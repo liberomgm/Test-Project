@@ -2111,8 +2111,8 @@ MonoBehaviour:
   chatPanel1: {fileID: 781333387}
   textObject: {fileID: 7465657356808777747, guid: 4c65da887bae0ac47b6f4affa9e6d5a6, type: 3}
   chatBox: {fileID: 226306110}
-  playerMessage: {r: 1, g: 1, b: 1, a: 1}
-  info: {r: 0.4270908, g: 0.4141153, b: 0.8867924, a: 1}
+  userMessageColor: {r: 0, g: 0, b: 0, a: 0}
+  infoMessageColor: {r: 0, g: 0, b: 0, a: 0}
   messageList: []
 --- !u!4 &668075074
 Transform:
