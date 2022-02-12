@@ -17,11 +17,6 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     List<Message> messageList = new List<Message>();
 
-    void Start()
-    {
-        
-    }
-
     void Update()
     {
         if (chatBox.text != "")
