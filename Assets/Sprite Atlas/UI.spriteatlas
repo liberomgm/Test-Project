@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0a3f9c6952ef6234784fe49574fd6ecf, type: 3}
+    - {fileID: 2800000, guid: 0f792e83fc07fbb4a8f5d49fce797b41, type: 3}
+    - {fileID: 2800000, guid: 939deee54aab7d34ca61449f668644f9, type: 3}
+    - {fileID: 2800000, guid: 7b641bbb5275938419e9afe3f2c9b638, type: 3}
+    - {fileID: 2800000, guid: c490b8df253386f418011b5745ef27f0, type: 3}
+    - {fileID: 2800000, guid: 5fa1be70d79b2f4439d9dd45778e141f, type: 3}
+    - {fileID: 2800000, guid: e0e5d8a48f2051441b2b69a06ce491d5, type: 3}
+    - {fileID: 2800000, guid: c987b93ad679e7f48a6acb5fbacc7028, type: 3}
+    - {fileID: 2800000, guid: e9dc50f3f0faacc4dae8e8a73bbb5663, type: 3}
+    - {fileID: 2800000, guid: 7f5c9e2b7c51f7a4fa0d071528a6aa85, type: 3}
+    - {fileID: 2800000, guid: 601219f2358aced4180385e0854fe66f, type: 3}
+    - {fileID: 2800000, guid: b5b2065de22a3424287ca1f068aa6047, type: 3}
+    - {fileID: 2800000, guid: 07e4be44ce308c246a759ca409b5a90a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5fa1be70d79b2f4439d9dd45778e141f, type: 3}
+  - {fileID: 21300000, guid: 601219f2358aced4180385e0854fe66f, type: 3}
+  - {fileID: 21300000, guid: 0f792e83fc07fbb4a8f5d49fce797b41, type: 3}
+  - {fileID: 21300000, guid: e9dc50f3f0faacc4dae8e8a73bbb5663, type: 3}
+  - {fileID: 21300000, guid: 07e4be44ce308c246a759ca409b5a90a, type: 3}
+  - {fileID: 21300000, guid: e0e5d8a48f2051441b2b69a06ce491d5, type: 3}
+  - {fileID: 21300000, guid: 939deee54aab7d34ca61449f668644f9, type: 3}
+  - {fileID: 21300000, guid: c987b93ad679e7f48a6acb5fbacc7028, type: 3}
+  - {fileID: 21300000, guid: 7f5c9e2b7c51f7a4fa0d071528a6aa85, type: 3}
+  - {fileID: 21300000, guid: 7b641bbb5275938419e9afe3f2c9b638, type: 3}
+  - {fileID: 21300000, guid: b5b2065de22a3424287ca1f068aa6047, type: 3}
+  - {fileID: 21300000, guid: c490b8df253386f418011b5745ef27f0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Options Button
+  - Return Square Button
+  - planet
+  - Pause Square Button
+  - 4cube
+  - store
+  - Exit Button
+  - Up Square Button
+  - Play Square Button
+  - New game Button
+  - 1cube
+  - Start Button
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0

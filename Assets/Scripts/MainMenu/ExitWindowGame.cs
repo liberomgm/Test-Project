@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace MainMenu
 {
-    public class LogForExit : MonoBehaviour
+    public class ExitWindowGame : MonoBehaviour
     {
         [SerializeField]
         private void ExitGame()
