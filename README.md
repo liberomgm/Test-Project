@@ -1,4 +1,4 @@
-# Test-Project
+# UI Test-Project
 This is the UI interface of the main menu for the game.
 
 # The following requirements have been met
